@@ -1,0 +1,28 @@
+<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#010101">
+	<!ENTITY fill_color "#FFFFFF">
+]><svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"   width="55"   height="55"   viewBox="0 0 55 55"   id="svg2491"   xml:space="preserve">
+<defs     id="defs2511">	</defs>
+<circle     cx="27.375"     cy="27.5"     r="19.903"     id="circle2494"
+     style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;marker-start:none;marker-mid:none;display:inline" /><path
+     d="M 13.147738,29.000174 C 12.322384,26.095942 21.206461,23.918987 20.714478,34.747913 C 20.188778,46.318978 27.376,47.403 27.376,47.403"
+     id="path2498"
+     style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round" /><path
+     d="M 39.332522,34.739304 C 40.081232,34.97195 33.464992,19.384284 27.376,47.403"
+     id="path2500"
+     style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round" /><path
+     d="M 30.708598,15.496535 C 26.800162,26.676296 22.951381,18.845471 26.471351,45.751662"
+     id="path2517"
+     style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" /><path
+     d="M 45.308012,64.59176 C 45.390908,64.986274 45.434782,65.397728 45.434782,65.820656 L 45.434784,65.820656 C 45.434782,68.757656 43.318956,71.141308 40.711956,71.141308 C 38.104956,71.141304 35.98913,68.757656 35.98913,65.820656 C 35.989131,63.920762 36.874513,62.25242 38.205497,61.31108"
+     id="path3358"
+     style="opacity:1;fill:none;stroke-width:3.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" /><path
+     d="M 38.205497,61.31108 C 38.932048,60.797226 39.791379,60.500004 40.711956,60.500004 C 42.943548,60.500004 44.815239,62.246592 45.308012,64.59176"
+     id="path3353"
+     style="opacity:1;fill:none;stroke-width:3.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" /><path
+     d="M 29.207512,10.031296 C 25.894608,12.057367 23.820094,16.53431 24.595104,20.054981 C 25.370115,23.575654 28.699556,24.799526 32.012461,22.773454 C 35.214934,20.814921 37.225638,16.555407 36.657445,13.092582 C 33.549414,14.441943 30.564807,13.172549 29.444353,9.9382733 C 29.366209,9.9824843 29.285684,9.9834893 29.207512,10.031296 z"
+     id="path3360"
+     style="opacity:1;fill:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" /></svg>

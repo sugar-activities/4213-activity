@@ -1,0 +1,7 @@
+Estable en 
+Green 30 Rabbits 50 Foxs 10
+
+Tareas pendientes
+- Reemplazar los terminos en castellano para dejar todo en ingles.
+- Graficar de alguna manera la muerte de los individuos.
+- Agregar configure y Makefile para hacer una instalacion standard. http://www.pygtk.org/articless/applets_arturogf/x207.html 

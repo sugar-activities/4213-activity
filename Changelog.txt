@@ -1,0 +1,5 @@
+Ver 0.0.4
+- hay datos que podrian ser estaticos de la clase, no de la instancia (madurezSexual, edadMaxima,etc)
+
+
+Ver 0.0.3

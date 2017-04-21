@@ -1,0 +1,7 @@
+16/7/2007 Gonzalo Odiard
+	* Actualizaciones por cambios en sugar
+	* Correcciones en el tamaño y color de fondo
+
+Ver 0.0.4
+	* hay datos que podrian ser estaticos de la clase, no de la instancia (madurezSexual, edadMaxima,etc)
+
